@@ -1,54 +1,54 @@
 Artist,Title,Style,Duration,lien_lyrics
-Julien Doré,Paris-Seychelles,Pop,X,
-Fréro Delavega,Le chant des sirènes,Pop,X,
-Louane,Jour 1,Pop,X,
-Vianney,Les filles d'aujourd'hui,Pop,X,
-Kendji Girac,Color Gitano,Pop,X,
-Indila,Dernière Danse,Pop,X,
-Christophe Maé,L'attrape-rêves,Pop,X,
-Brigitte,A bouche que veux-tu,Pop,X,
-Jenifer,Paradis secret,Pop,X,
-Calogero,Un Jour Au Mauvais Endroit,Pop,X,
-Keen'V,Rien qu'une fois,Pop,X,
-Black M,Je suis chez moi,Pop,X,
-Maître Gims,Sapés comme jamais (Pilule Bleue),Pop,X,
-Angèle,Oui ou non,Pop,X,
-En nuit,VIDEOCLUB,Pop,X,
-Poupie,Ne m’invite pas,Pop,X,
-Julien Granel,Défait,Pop,X,
-Soprano,Casanova,Pop,X,
-Kendji Girac,Maria Maria,Pop,X,
-Angèle,Les matins,Pop,X,
-Soprano,Clown,Pop,X,
-Soprano,En feu,Pop,X,
-Tant de choses,Zaho,Pop,X,
-Tout va bien,Souf,Pop,X,
-Stromae,Alors on danse,Pop,X,
-Stromae,Papaoutai,Pop,X,
-Stromae,tous les mêmes,Pop,X,
-Orelsan,Basique,Pop,X,
-Navii,Alors souris,Pop,X,
-Dr Bériz,Tout le monde est loin d’être fiable,Pop,X,
-Gims,Ma beauté (Pilule Violette),Pop,X,
-Bigflo & Oli,Dommage,Pop,X,
-Angèle,Balance Ton Quoi,Pop,X,
-Carla,Bim Bam toi,Pop,X,
-GIms,Bella,Pop,X,
-Gims,J’me tire,Pop,X,
-Dadju,Jaloux,Pop,X,
-Dadju,Reine,Pop,X,
-Christophe Maé,Les gens,Pop,X,
-Christophe Maé,On S'Attache,Pop,X,
-Christophe Maé,Belle Demoiselle ,Pop,X,
-Zaz,On ira,Pop,X,
-Joyce Jonathan ,Ça ira,Pop,X,
-Marwa Loud,Fallait pas,Pop,X,
-Naza,Souris Verte,Pop,X,
-DJ Erise,TECO,Pop,X,
-Franglish,À cause de toi,Pop,X,
-Lartiste,Catchu catchu,Pop,X,
-Lartiste,Chocolat,Pop,X,
-Lartiste ,Mafiosa,Pop,X,
+Julien Doré,Paris-Seychelles,Pop,,X
+Fréro Delavega,Le chant des sirènes,Pop,,X
+Louane,Jour 1,Pop,,X
+Vianney,Les filles d'aujourd'hui,Pop,,X
+Kendji Girac,Color Gitano,Pop,,X
+Indila,Dernière Danse,Pop,,X
+Christophe Maé,L'attrape-rêves,Pop,,X
+Brigitte,A bouche que veux-tu,Pop,,X
+Jenifer,Paradis secret,Pop,,X
+Calogero,Un Jour Au Mauvais Endroit,Pop,,X
+Keen'V,Rien qu'une fois,Pop,,X
+Black M,Je suis chez moi,Pop,,X
+Maître Gims,Sapés comme jamais (Pilule Bleue),Pop,,X
+Angèle,Oui ou non,Pop,,X
+En nuit,VIDEOCLUB,Pop,,X
+Poupie,Ne m’invite pas,Pop,,X
+Julien Granel,Défait,Pop,,X
+Soprano,Casanova,Pop,,X
+Kendji Girac,Maria Maria,Pop,,X
+Angèle,Les matins,Pop,,X
+Soprano,Clown,Pop,,X
+Soprano,En feu,Pop,,X
+Tant de choses,Zaho,Pop,,X
+Tout va bien,Souf,Pop,,X
+Stromae,Alors on danse,Pop,,X
+Stromae,Papaoutai,Pop,,X
+Stromae,tous les mêmes,Pop,,X
+Orelsan,Basique,Pop,,X
+Navii,Alors souris,Pop,,X
+Dr Bériz,Tout le monde est loin d’être fiable,Pop,,X
+Gims,Ma beauté (Pilule Violette),Pop,,X
+Bigflo & Oli,Dommage,Pop,,X
+Angèle,Balance Ton Quoi,Pop,,X
+Carla,Bim Bam toi,Pop,,X
+GIms,Bella,Pop,,X
+Gims,J’me tire,Pop,,X
+Dadju,Jaloux,Pop,,X
+Dadju,Reine,Pop,,X
+Christophe Maé,Les gens,Pop,,X
+Christophe Maé,On S'Attache,Pop,,X
+Christophe Maé,Belle Demoiselle ,Pop,,X
+Zaz,On ira,Pop,,X
+Joyce Jonathan ,Ça ira,Pop,,X
+Marwa Loud,Fallait pas,Pop,,X
+Naza,Souris Verte,Pop,,X
+DJ Erise,TECO,Pop,,X
+Franglish,À cause de toi,Pop,,X
+Lartiste,Catchu catchu,Pop,,X
+Lartiste,Chocolat,Pop,,X
+Lartiste ,Mafiosa,Pop,,X
 Henri Salvador,Blouse Du Dentiste,Pop,,Genius
 Henri Salvador,J'ai Vingt Ans,Pop,,Genius
 Henri Salvador,Le Cingle de la Grosse Caisse,Pop,,
@@ -272,7 +272,6 @@ Dick Rivers,Maintenant Tu Veux Partir,Rock,150,Genius
 Dick Rivers,Tu N' Est Plus Là,Rock,145,Pas sur Genius
 Dick Rivers,La Fille Dont Je Rêvais,Rock,170,Genius
 Dick Rivers,Twist And Shout,Rock,135,Pas sur Genius
-,,,,
 Dick Rivers,Je Ne Suis Plus Rien Sans Toi,Rock,,Genius
 Dick Rivers,Entre Nous C’est Fini,Rock,,Genius
 Dick Rivers,Si Un Jour,Rock,,Genius
@@ -344,6 +343,3 @@ Marc Lavoine,Chère Amie,VF,214,
 Luna parker,Tes états d’âme... Éric,VF,195,
 Jacques Brel,Ces gens-là,VF,223,
 Jacques Brel,La Chanson des vieux amants,VF,272,
-a faire,,,,
-a faire ,,,,
-a faire,,,,
